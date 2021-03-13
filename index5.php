@@ -9,9 +9,9 @@
     <title>PAINT</title>
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-danger">
+<nav class="navbar navbar-expand-lg navbar-light bg-danger">
         <div class="container-fluid">
-          <a class="navbar-brand" href="index.html"><b><I>ROYAL PAINTS</I></b></a>
+          <a class="navbar-brand" href="index.php"><b><I>ROYAL PAINTS</I></b></a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -19,22 +19,22 @@
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="index.html"><b>Home</b></a>
+                <a class="nav-link active" aria-current="page" href="index.php"><b>Home</b></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="index1.html"><b>LOGIN</b></a>
+                <a class="nav-link" href="index1.php"><b>LOGIN</b></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="index2.html"><b>Our_Service</b></a>
+                <a class="nav-link" href="index2.php"><b>Our_Service</b></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="index3.html"><b>Why Choose Us?</b></a>
+                <a class="nav-link" href="index3.php"><b>Why Choose Us?</b></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="index4.html"><b>Our_Workes</b></a>
+                <a class="nav-link" href="index4.php"><b>Our_Workes</b></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="index5.html"><b>Contact Us</b></a>
+                <a class="nav-link" href="index5.php"><b>Contact Us</b></a>
               </li>
               
               </div>
@@ -62,30 +62,30 @@
             <span class="visually-hidden">Loading...</span>
           </div>
       </nav>
+      <div class="card text-white bg-dark mb-3" style="max-width: 68rem;">
+        <div class="card-header"><b>Get In Touch!!!</b></div>
+        <div class="card-body">
+            <img height="100px" src="https://royalpaints.net/images/poup_side.png" alt="...">
+            <h5 class="card-title"><b>Contact With Us</b></h5>
+            <p class="card-text"> 
+                Royal Paints- Painting Services in Kochi
+                Nadakkaparambil Building
+                Cheranellor, Edappally,
+                Kochi, Kerala 682034+91-97458 37777+91-90480 37540
+            </p>
+        </div>
+      </div>
+      
+      </div>
+      </div>
+              
+            </div>
+          </div>
      
       <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <div class="card w-45">
-              <div class="card-body">
-                <h5 class="card-title">WHY CHOOSE US???</h5>
-                <p class="card-text">We are one of the excellent painting contract companies on kochi. We strongly believe in providing a hassle free customer service and provide a complete decorating service including House interior and exterior painting, buildings and wall painting, texture painting, renovations and more. While nothing is 100% stress free, we take care to provide an efficient, trustworthy, punctual service and we get the job done, no matter how big or small.
-                  ✔︎ Fully insured
-                  ✔︎ Efficient
-                  ✔︎ Trustworthy
-                  ✔︎ Punctual
-                  ✔︎ Competitive
-                  All our painting works are carried out by members of our team of highly skilled painters and decorators and we only use paints and materials sourced from trusted suppliers. </p>
-                
-              </div>
-            </div>
-            
-      
-            </div>
-            
-            <img height="450px" src="https://royalpaints.net/images/services/detail/wall13.jpg" class="d-block w-100" alt="...">
-              
-            </div>
+            <img height="450px" src="https://royalpaints.net/images/banner/banner_1.jpg" class="d-block w-100" alt="...">
           </div>
           
         </div>
@@ -93,3 +93,5 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>  
 </body>
 </html>
+
+

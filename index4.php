@@ -9,9 +9,9 @@
     <title>PAINT</title>
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-danger">
+<nav class="navbar navbar-expand-lg navbar-light bg-danger">
         <div class="container-fluid">
-          <a class="navbar-brand" href="index.html"><b><I>ROYAL PAINTS</I></b></a>
+          <a class="navbar-brand" href="index.php"><b><I>ROYAL PAINTS</I></b></a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -19,22 +19,22 @@
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="index.html"><b>Home</b></a>
+                <a class="nav-link active" aria-current="page" href="index.php"><b>Home</b></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="index1.html"><b>LOGIN</b></a>
+                <a class="nav-link" href="index1.php"><b>LOGIN</b></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="index2.html"><b>Our_Service</b></a>
+                <a class="nav-link" href="index2.php"><b>Our_Service</b></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="index3.html"><b>Why Choose Us?</b></a>
+                <a class="nav-link" href="index3.php"><b>Why Choose Us?</b></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="index4.html"><b>Our_Workes</b></a>
+                <a class="nav-link" href="index4.php"><b>Our_Workes</b></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="index5.html"><b>Contact Us</b></a>
+                <a class="nav-link" href="index5.php"><b>Contact Us</b></a>
               </li>
               
               </div>
@@ -62,11 +62,34 @@
             <span class="visually-hidden">Loading...</span>
           </div>
       </nav>
-     
       <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img height="450px" src="https://royalpaints.net/images/banner/banner_1.jpg" class="d-block w-100" alt="...">
+            <img height="450px" src="https://royalpaints.net/images/part/2.jpg" class="d-block w-100" alt="..."> 
+          </div>
+          <div class="carousel-item">
+            <img height="450px" src="https://royalpaints.net/images/part/5.jpg" class="d-block w-100" alt="..."> 
+          </div>
+          <div class="carousel-item">
+            <img height="450px" src="https://royalpaints.net/images/part/7.jpg" class="d-block w-100" alt="..."> 
+          </div>
+          <div class="carousel-item">
+            <img height="450px" src="https://royalpaints.net/images/part/4.jpg" class="d-block w-100" alt="..."> 
+          </div>
+          <div class="carousel-item">
+            <img height="450px" src="https://royalpaints.net/images/part/3.jpg" class="d-block w-100" alt="..."> 
+          </div>
+          <div class="carousel-item">
+            <img height="450px" src="https://royalpaints.net/images/part/11.jpg" class="d-block w-100" alt="..."> 
+          </div>
+          <div class="carousel-item">
+            <img height="450px" src="https://royalpaints.net/images/part/9.jpg" class="d-block w-100" alt="..."> 
+          </div>
+        </div>
+      </div>
+      
+     
+            </div>
           </div>
           
         </div>
